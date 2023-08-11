@@ -33,7 +33,7 @@ Once you run index.js, you can answer the four questions regarding shape type, s
 You can use the Jest package included in the repository to test the application!  
 ![An image of the command line that indicates all 3 tests for the application passing.](https://github.com/bibekmain/SVG-LogoGenerator/blob/main/examples/exampleTest.png?raw=true)  
 - First, make sure you have installed the application correctly
-- Then go to the app's directory and run npm run test
+- Then go to the app's directory and run `npm run test`
 - All the default test suites should run and pass within a couple of seconds
 
 
