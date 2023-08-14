@@ -5,11 +5,11 @@
 ![Generated SVG, Shape: Circle, Shape color: Red, Text: abc, Text color: white](https://github.com/bibekmain/SVG-LogoGenerator/blob/main/examples/exampleOne.png?raw=true)
     
 ## Description
-This is a simple NodeJS application that allows the user to choose between shapes, colors, and text to create an svg logo for their project.
+This is a simple NodeJS application that allows the user to choose between shapes, colors, and text to create an SVG logo for their project.
 
 - Motivation: As a developer, I would like a fast and easy way to create an SVG logo for my projects.
 - Purpose: This application is a fast and easy way to create an SVG logo.
-- What i learned: Inquirer, FS, Inheritance, Jest
+- What I learned: Inquirer, FS, Inheritance, Jest
 
 ## Table Of Contents
 * [Description](#description)
@@ -32,15 +32,15 @@ Once you run index.js, you can answer the four questions regarding shape type, s
 ## Testing
 You can use the Jest package included in the repository to test the application!  
 ![An image of the command line that indicates all 3 tests for the application passing.](https://github.com/bibekmain/SVG-LogoGenerator/blob/main/examples/exampleTest.png?raw=true)  
-- First make sure you have installed the application correctly
--  then go to the app's directory and run npm run test
--  all the default test suites should run and pass within a couple seconds
+- First, make sure you have installed the application correctly
+- Then go to the app's directory and run `npm run test`
+- All the default test suites should run and pass within a couple of seconds
 
 
 ## Credits  
 
 
-### Third Party Assets:
+### Third-Party Assets:
 * [Inquirer](https://www.npmjs.com/package/inquirer)
 * [ FS]( https://nodejs.org/api/fs.html)
 * [ Jest]( https://jestjs.io/docs/getting-started)
@@ -48,7 +48,7 @@ You can use the Jest package included in the repository to test the application!
 
 ## Questions
 Check out my [Github](https://github.com/bibekmain)  
-You can email me at: [bibekmbkb@gmail.com](bibekmbkb@gmail.com) with any questions about the program.
+You can email me at [bibekmbkb@gmail.com](bibekmbkb@gmail.com) with any questions about the program.
 
 ## License
     This project is licensed with MIT
