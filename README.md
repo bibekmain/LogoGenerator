@@ -27,7 +27,10 @@ This is a simple NodeJS application that allows the user to choose between shape
 
 
 ## Usage
-Once you run index.js, you can answer the four questions regarding shape type, shape color, text, and text color to create an svg logo of your own!  
+Once you run index.js, you can answer the four questions regarding shape type, shape color, text, and text color to create an svg logo of your own!
+
+### Usage Demo
+[Link to usage demo and test video](https://drive.google.com/file/d/1SbuIdTCm4E5VbHc-2w5fSltCJVc4bRZY/view?usp=sharing)
 
 ## Testing
 You can use the Jest package included in the repository to test the application!  
